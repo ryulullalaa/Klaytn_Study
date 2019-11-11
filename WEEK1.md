@@ -116,7 +116,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 
 -블록 생성결과 접근 및 검증노드
 
-https://user-images.githubusercontent.com/57217495/68576105-d1de8d80-04b0-11ea-803c-5f0454cbfd3e.PNG
+<img src= "https://user-images.githubusercontent.com/57217495/68576105-d1de8d80-04b0-11ea-803c-5f0454cbfd3e.PNG" width= "90%"></img>
 
 -> 2/3 이상이 허락 시 승인
 
@@ -158,7 +158,7 @@ https://user-images.githubusercontent.com/57217495/68576105-d1de8d80-04b0-11ea-8
 ### 3. 네트워크 구조
 
 
-https://user-images.githubusercontent.com/57217495/68576123-d86d0500-04b0-11ea-8ee5-b220215377e7.PNG
+<img src= "https://user-images.githubusercontent.com/57217495/68576123-d86d0500-04b0-11ea-8ee5-b220215377e7.PNG" width= 90%></img>
 
 
 -크게 CNN, PNN, ENN으로 구분할 수 있으며, CNN과 PNN은 corecell network 를 구성하고, ENN은 Endpoint node network를 구성함.
@@ -192,7 +192,7 @@ cf) 하나의 코어 셸이 빠르다고 해서 전체 성능이 올라가는 �
 
 CN- 연결에 필요한 자원 제한적, 수가 한정적
 
-https://user-images.githubusercontent.com/57217495/68576153-e753b780-04b0-11ea-8575-694b9b10031d.PNG
+<img src= "https://user-images.githubusercontent.com/57217495/68576153-e753b780-04b0-11ea-8575-694b9b10031d.PNG" width= 90%></img>
 
 
 결론:
@@ -206,6 +206,9 @@ PN을 여러 대 둠으로써 확장성 문제 해결 가능
 </hr>
 
 ### 5. 서비스 체인
+
+
+<img src= "https://user-images.githubusercontent.com/57217495/68585276-2855c700-04c5-11ea-87f1-55f1e7eef24f.PNG)" width =90%></img>
 
 서비스 체인= 메인 체인의 "신뢰성을 고정"시키는 역할
 
@@ -223,6 +226,9 @@ PN을 여러 대 둠으로써 확장성 문제 해결 가능
 -마이닝 노드: 블록을 쓰고 네트워크에 전파한 노드
 
 2)클레이튼
+
+<img src = "https://user-images.githubusercontent.com/57217495/68585287-2e4ba800-04c5-11ea-9c9f-46340844d7fb.PNG)" width = 90%></img>
+
 
 -two layer architecture trust model
 
