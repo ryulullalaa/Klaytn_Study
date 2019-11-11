@@ -208,7 +208,7 @@ PN을 여러 대 둠으로써 확장성 문제 해결 가능
 ### 5. 서비스 체인
 
 
-<img src= "https://user-images.githubusercontent.com/57217495/68585276-2855c700-04c5-11ea-87f1-55f1e7eef24f.PNG)" width =90%></img>
+<img src= "https://user-images.githubusercontent.com/57217495/68585276-2855c700-04c5-11ea-87f1-55f1e7eef24f.PNG" width =90%></img>
 
 서비스 체인= 메인 체인의 "신뢰성을 고정"시키는 역할
 
@@ -227,7 +227,7 @@ PN을 여러 대 둠으로써 확장성 문제 해결 가능
 
 2)클레이튼
 
-<img src = "https://user-images.githubusercontent.com/57217495/68585287-2e4ba800-04c5-11ea-9c9f-46340844d7fb.PNG)" width = 90%></img>
+<img src = "https://user-images.githubusercontent.com/57217495/68585287-2e4ba800-04c5-11ea-9c9f-46340844d7fb.PNG" width = 90%></img>
 
 
 -two layer architecture trust model
