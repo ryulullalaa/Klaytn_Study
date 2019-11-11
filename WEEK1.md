@@ -81,7 +81,7 @@ ex) 비트코인&이더리움: 최종성 부족, 확률론적 최종성만 제�
 Longest Chain Rule을 따른다.
 
 
-(https://user-images.githubusercontent.com/57217495/68576061-b70c1900-04b0-11ea-9546-6648348c7f40.PNG)
+https://user-images.githubusercontent.com/57217495/68576061-b70c1900-04b0-11ea-9546-6648348c7f40.PNG
 
 
 ->어떤 것으로 정해질 지 모르는 상황, 이것을 명명하는게 fork
@@ -116,7 +116,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 
 -블록 생성결과 접근 및 검증노드
 
-(https://user-images.githubusercontent.com/57217495/68576105-d1de8d80-04b0-11ea-803c-5f0454cbfd3e.PNG)
+https://user-images.githubusercontent.com/57217495/68576105-d1de8d80-04b0-11ea-803c-5f0454cbfd3e.PNG
 
 -> 2/3 이상이 허락 시 승인
 
@@ -158,7 +158,7 @@ cf)비잔티움 문제: 어떤 사용자가 악의적으로 데이터를 변경�
 ### 3. 네트워크 구조
 
 
-(https://user-images.githubusercontent.com/57217495/68576123-d86d0500-04b0-11ea-8ee5-b220215377e7.PNG)
+https://user-images.githubusercontent.com/57217495/68576123-d86d0500-04b0-11ea-8ee5-b220215377e7.PNG
 
 
 -크게 CNN, PNN, ENN으로 구분할 수 있으며, CNN과 PNN은 corecell network 를 구성하고, ENN은 Endpoint node network를 구성함.
@@ -192,7 +192,7 @@ cf) 하나의 코어 셸이 빠르다고 해서 전체 성능이 올라가는 �
 
 CN- 연결에 필요한 자원 제한적, 수가 한정적
 
-(https://user-images.githubusercontent.com/57217495/68576153-e753b780-04b0-11ea-8575-694b9b10031d.PNG)
+https://user-images.githubusercontent.com/57217495/68576153-e753b780-04b0-11ea-8575-694b9b10031d.PNG
 
 
 결론:
