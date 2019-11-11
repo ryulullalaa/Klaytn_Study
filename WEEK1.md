@@ -81,7 +81,7 @@ ex) 비트코인&이더리움: 최종성 부족, 확률론적 최종성만 제�
 Longest Chain Rule을 따른다.
 
 
-https://user-images.githubusercontent.com/57217495/68576061-b70c1900-04b0-11ea-9546-6648348c7f40.PNG
+<img src="https://user-images.githubusercontent.com/57217495/68576061-b70c1900-04b0-11ea-9546-6648348c7f40.PNG" width= "90%"></img>
 
 
 ->어떤 것으로 정해질 지 모르는 상황, 이것을 명명하는게 fork
